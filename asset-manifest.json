@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Count-Operator/static/css/main.15627dfb.css",
+    "main.js": "/Count-Operator/static/js/main.3cdf734d.js",
+    "index.html": "/Count-Operator/index.html",
+    "main.15627dfb.css.map": "/Count-Operator/static/css/main.15627dfb.css.map",
+    "main.3cdf734d.js.map": "/Count-Operator/static/js/main.3cdf734d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15627dfb.css",
+    "static/js/main.3cdf734d.js"
+  ]
+}
